@@ -18,4 +18,4 @@ Permissions Usage:
 
 The extension operates only on pages relevant to its functionality and does not perform background data collection.
 
-If you have any questions, contact: your-email@example.com
+If you have any questions, contact: zareef.hasan@gmail.com
